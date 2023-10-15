@@ -32,7 +32,7 @@ Starting app development with Flutter can be an exciting journey even for the la
 | :------------------------------------------------------------------------------: | 
 |   <img width="200" src="https://github.com/pdy1207/Vuebangapp/assets/110442250/ca8ea844-b2cb-43bf-953c-45adc92ec459" />    |  
 |   [@pdy1207](https://github.com/pdy1207)   |   
-| Web Dev | 
+| Flutter Dev | 
 
 ## Getting Started
 
